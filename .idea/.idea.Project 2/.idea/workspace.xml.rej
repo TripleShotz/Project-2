@@ -1,0 +1,111 @@
+diff a/.idea/.idea.Project 2/.idea/workspace.xml b/.idea/.idea.Project 2/.idea/workspace.xml	(rejected hunks)
+@@ -2,109 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="6484fb99-9d25-4f33-833f-a87cabd55306" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Flashlight.prefab" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Flashlight.prefab.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/FlashlightColor.prefab" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/FlashlightColor.prefab.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials/FlashlightBaseMaterialColor.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials/FlashlightBaseMaterialColor.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes/ExampleScene.unity" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes/ExampleScene.unity.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac.tga" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac.tga.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac_Color.tga" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac_Color.tga.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_NM.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_NM.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossA.tga" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossA.tga.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossAGold.tga" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossAGold.tga.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBaseMaterial.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBaseMaterial.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBulbMaterial.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBulbMaterial.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightLensMaterial.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightLensMaterial.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightReflectorMaterial.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightReflectorMaterial.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/GreyMaterial.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/GreyMaterial.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/Sky.mat" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/Sky.mat.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.FBX" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.FBX.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_GL.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_GL.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_NM.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_NM.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_AL.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_AL.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_OP.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_OP.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_RFMorSP2.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_RFMorSP2.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/ReflMap_PS_sHDR_512.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/ReflMap_PS_sHDR_512.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Flashlight.prefab" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Flashlight.prefab.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Spotlight.prefab" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Spotlight.prefab.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_DFSA.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_DFSA.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_NM.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_NM.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_Opac.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_Opac.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie2.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie2.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie3.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie3.png.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Objecten-pickupthrow.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Objecten-pickupthrow.txt.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RayCaster.cs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RayCaster.cs.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Sprinting.fbx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Sprinting.fbx.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Standing.fbx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Standing.fbx.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched Walking.fbx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched Walking.fbx.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouching Idle.fbx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouching Idle.fbx.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Standing To Crouched.fbx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Standing To Crouched.fbx.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs.meta" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs/Player Variant.prefab" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs/Player Variant.prefab.meta" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/contentModel.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scenes/Scene_A.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scenes/Scene_A.unity" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />

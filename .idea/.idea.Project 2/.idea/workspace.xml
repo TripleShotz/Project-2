@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6484fb99-9d25-4f33-833f-a87cabd55306" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Flashlight.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Flashlight.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/FlashlightColor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/FlashlightColor.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials/FlashlightBaseMaterialColor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Materials/FlashlightBaseMaterialColor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes/ExampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Scenes/ExampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac_Color.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_DFopac_Color.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_NM.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossA.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossA.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossAGold.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Flashlight_Gold/Textures/FlashLight_SpecGlossAGold.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBaseMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBaseMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBulbMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightBulbMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightLensMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightLensMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightReflectorMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/FlashlightReflectorMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/GreyMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/GreyMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/Sky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Materials/Sky.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_GL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_GL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/FlashLight_NM.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_AL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_AL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_OP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_OP.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_RFMorSP2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/LP_FlashLight_RFMorSP2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/ReflMap_PS_sHDR_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Misc/Flashlight.fbm/ReflMap_PS_sHDR_512.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Flashlight.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Flashlight.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Spotlight.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Model/Spotlight.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_DFSA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_DFSA.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_NM.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_Opac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/FlashLight_Opac.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Flashlight/Textures/Flashlight_Cookie3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objecten-pickupthrow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objecten-pickupthrow.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RayCaster.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RayCaster.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Sprinting.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Sprinting.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Standing.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched To Standing.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched Walking.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouched Walking.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouching Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Crouching Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Standing To Crouched.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/Standing To Crouched.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs/Player Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Prefabs/Player Variant.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scenes/Scene_A.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scenes/Scene_A.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/WaterFloat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/Models/DefaultPostFxModelEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Game/Prototype 3/Prototype 3/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/DisableRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/FPSDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RayCaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/Raycasters/PhysicsRaycaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/Utils/CurveEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/Utils/CurveEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickupObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickupTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayCaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UC77FoaBzYHVPNaiXCquGDfquA" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6484fb99-9d25-4f33-833f-a87cabd55306" name="Default Changelist" comment="" />
+      <created>1574848559148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574848559148</updated>
+      <workItem from="1574848569467" duration="1487000" />
+      <workItem from="1574946085032" duration="754000" />
+      <workItem from="1574949926546" duration="662000" />
+      <workItem from="1574950835404" duration="22000" />
+      <workItem from="1575375681995" duration="1375000" />
+      <workItem from="1575377349677" duration="182000" />
+      <workItem from="1575377559707" duration="4617000" />
+      <workItem from="1575384685045" duration="755000" />
+      <workItem from="1575445941183" duration="1336000" />
+      <workItem from="1575982716108" duration="1796000" />
+      <workItem from="1576054028514" duration="6123000" />
+      <workItem from="1576571286613" duration="1052000" />
+      <workItem from="1576572438855" duration="807000" />
+      <workItem from="1576585217319" duration="2535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
