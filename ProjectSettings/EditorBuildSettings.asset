@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/game.unity
     guid: 85e8249a83a9d1a4db4110830c41f983
+  - enabled: 1
+    path: Assets/Flooded_Grounds/Scenes/Scene_A_REMOTE_1176.unity
+    guid: e9554b8e94a70f147a86091ea175d378
   m_configObjects: {}
