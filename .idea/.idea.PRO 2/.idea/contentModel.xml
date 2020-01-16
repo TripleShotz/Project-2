@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\fabie\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -198,6 +198,10 @@
             <e p="WaterFloat.cs" t="Include" />
           </e>
         </e>
+        <e p="Interact.cs" t="Include" />
+        <e p="Laptop" t="Include">
+          <e p="StandardColorMask.shader" t="Include" />
+        </e>
         <e p="Objecten-pickupthrow.txt" t="Include" />
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
@@ -219,11 +223,20 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="DBManager.cs" t="Include" />
           <e p="DoorTrigger.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="Hack.cs" t="Include" />
+          <e p="Login.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="RayCaster.cs" t="Include" />
+          <e p="Registration.cs" t="Include" />
           <e p="SelectionManager.cs" t="Include" />
+          <e p="TabBetween.cs" t="Include" />
           <e p="ThrowObject.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
+          <e p="WebTest.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
@@ -268,7 +281,6 @@
             <e p="ThirdPersonCharacter" t="Include">
               <e p="Scripts" t="Include">
                 <e p="AICharacterControl.cs" t="Include" />
-                <e p="MouseLook.cs" t="Include" />
                 <e p="ThirdPersonCharacter.cs" t="Include" />
                 <e p="ThirdPersonUserControl.cs" t="Include" />
               </e>
