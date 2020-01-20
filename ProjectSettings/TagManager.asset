@@ -8,6 +8,7 @@ TagManager:
   - Interactable
   - InteractText
   - InteractableH
+  - bomb
   layers:
   - Default
   - TransparentFX

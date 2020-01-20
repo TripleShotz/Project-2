@@ -21,15 +21,27 @@ public class Interact : MonoBehaviour
 
     void OnTriggerEnter(Collider other){
         if(other.gameObject.CompareTag("Interactable"))
-        interactText.text = "press q to use";
+        interactText.text = "Press q to hack";
     }
     void OnTriggerStay(Collider other){
         if(other.gameObject.CompareTag("Interactable")){
             if(Input.GetKeyDown(KeyCode.Q)){
                 if(other.gameObject.transform.name == "laptop H"){
-                    interactText.text = "press q to use";
+                    interactText.text = "Letter: H";
                 }else if(other.gameObject.transform.name == "laptop A"){
-                    interactText.text = "press q to use";
+                    interactText.text = "Letter: A";
+                }
+                else if(other.gameObject.transform.name == "laptop C"){
+                    interactText.text = "Letter: C";
+                }
+                else if(other.gameObject.transform.name == "laptop K"){
+                    interactText.text = "Letter: K";
+                }
+                else if(other.gameObject.transform.name == "laptop E"){
+                    interactText.text = "Letter: E";
+                }
+                else if(other.gameObject.transform.name == "laptop R"){
+                    interactText.text = "Letter: R";
                 }
             }
         }
